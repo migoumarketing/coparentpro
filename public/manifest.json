@@ -1,0 +1,11 @@
+{
+  "name": "CoParentPro",
+  "short_name": "CoParentPro",
+  "description": "Calendrier de garde intelligent pour parents séparés",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060612",
+  "theme_color": "#6366f1",
+  "orientation": "any",
+  "lang": "fr"
+}
